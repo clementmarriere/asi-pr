@@ -10,6 +10,7 @@ Reproduction of **Auto-Encoding Variational Bayes** (Kingma & Welling, 2014) for
 ## How to run
 
 Open `vae_assignment.ipynb` in Google Colab, and run all cells
+
 NB : enable GPU for faster training (around 10 minutes)
 
 ## Authors
